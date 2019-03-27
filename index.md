@@ -1,5 +1,5 @@
 # Yusuf Aslam
-![Yusuf](https://github.com/ahamedbashir/randomFiles/blob/master/Waiter-Food-Server.jpg)
+![Yusuf](./Waiter-Food-Server.jpg)
 ### Behaviors
 - Religious Person
 - Hardworking Man
