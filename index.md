@@ -1,5 +1,5 @@
 # Yusuf Aslam
-![Yusuf](./Waiter.jpg)
+![](./Waiter.jpg)
 ### Behaviors
 - Religious Person
 - Hardworking Man
